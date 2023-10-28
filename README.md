@@ -1,7 +1,7 @@
 # BeginnerTestAutomationFramework
 TestAutomationFramework
 
-Project Structure
+**Project Structure**
 - Base
 - Utilities
 - TestCases
@@ -10,11 +10,11 @@ Project Structure
 - Logs
 - Reports
 
-  Dependencies
-  - Selenium WebDriver
-  - WebDriver Manager
-  - TestNG
-  - Report NG
-  - Logs log4j
-  - Apache POI API
+**Dependencies**
+- Selenium WebDriver
+- WebDriver Manager
+- TestNG
+- Report NG
+- Logs log4j
+- Apache POI API
   
