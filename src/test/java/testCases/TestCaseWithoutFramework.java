@@ -23,7 +23,7 @@ Thread.sleep(2000);
 driver.findElement(By.id("password")).sendKeys("zoho@1122");
 driver.findElement(By.id("nextbtn")).click();
 
-        System.out.println("Login Successfull");
+        System.out.println("Login Successful");
 
         driver.quit();
 
